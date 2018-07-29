@@ -2,7 +2,7 @@
     "name": "rameriinfor/ecommerce",
     "authors": [
         {
-            "name": "Infor Treinamentos",
+            "name": "Info Service",
             "email": "ramerips3@yahoo.com"
         }
     ],
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
